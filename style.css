@@ -117,7 +117,7 @@ aside {
 }
 
 aside h2{
-  color:orange;
+  color:black;
   text-align:center;
   text-shadow: 2px 2px 5px blue;
 }
@@ -127,13 +127,13 @@ aside h2{
 }
 
 aside li{
-  color:white;
+  color:black;
   font-size:1.25em;
    padding:17px;
 }
 
 aside a{
-  color:white;
+  color:blue;
 }
 
 article {
